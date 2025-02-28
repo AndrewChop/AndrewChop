@@ -28,11 +28,6 @@ I am passionate about technology and software development, and I am dedicated to
 ### 🌟 GitHub Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewChop&theme=github_dark" />
 
-### 🔥 GitHub Contribution Graph
-<a href="https://github.com/AndrewChop">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewChop&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</a>
-
 #
 
 <h2 align="left">💻 Programming Languages</h2>
