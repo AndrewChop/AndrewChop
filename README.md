@@ -5,10 +5,7 @@
 
 I am passionate about technology and software development, and I am dedicated to creating unique and impactful solutions. I have experience in full-stack development with different technologies, ranging from Java (Spring Boot) and JavaScript (React, Next.js, Node.js) to relational and NoSQL databases. I enjoy tackling complex challenges, always writing clean and scalable code, and I always tell myself that you never stop learning.  
 
-* 🌍  I'm based in Pisa, Italy
-* ✉️  You can contact me at [amarantoandrea@gmail.com](mailto:amarantoandrea@gmail.com)
-* 🚀  I'm currently working on [Start & Go Innovative Solutions](http://www.startegois.com/it)
-* ⚡  There is always something more behind the simple things
+#
 
 <b>📊 My GitHub Stats</b>
 
